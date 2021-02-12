@@ -1,5 +1,5 @@
 # Rethinking Eye-blink
-###### Assessing Task Difficulty through Physiological Representation of Spontaneous Blinking
+#### Assessing Task Difficulty through Physiological Representation of Spontaneous Blinking
 ##### Author: Dr. Youngjun Cho (UCL Computer Science)
 Contact us Physiological Computing and Artificial Intelligence group (http://youngjuncho.com)
 <br/>
@@ -27,13 +27,16 @@ dlib: 19.19.0\
 pandas: 0.25.1
 <br/>
 <br/>
-##### Quick start:
+<br/>
+### Quick start:
 Run demo.py (command: Python demo.py)
 <br/>
-##### Preview video:
+<br/>
+### Preview video:
 [![IMAGE ALT TEXT HERE](http://youngjuncho.com/wp-content/uploads/2021/02/Rethinking-Eyeblink-Preview-1024x576.png)](https://youngjuncho.com/2021/rethinking-eyeblink/preview-video/)
 <br/>
-##### Citation:
+<br/>
+### Citation:
 Youngjun Cho. "Rethinking Eye-blink: Assessing Task Difficulty through Physiological Representation of Spontaneous Blinking." In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. ACM, 2021.<br />
 ```
 @inproceedings{youngjunrethinkingblink,  
