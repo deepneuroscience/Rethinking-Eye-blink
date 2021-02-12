@@ -4,6 +4,7 @@
 Contact us Physiological Computing and Artificial Intelligence group (http://youngjuncho.com)
 <br/>
 <br/>
+[![IMAGE ALT TEXT HERE](http://youngjuncho.com/wp-content/uploads/2021/02/Rethinking-Eyeblink-Preview-1024x576.png)](https://youngjuncho.com/wp-content/uploads/2021/02/Rethinking-Eyeblink_480p.mov)
 
 ### Before starting
 Download Anaconda for python 3
